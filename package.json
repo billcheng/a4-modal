@@ -1,0 +1,34 @@
+{
+  "name": "a4-modal",
+  "version": "5.0.1",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "ngc && rollup -c"
+  },
+  "dependencies": {
+    "@angular/animations": "^5.0.0",
+    "@angular/common": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/router": "^5.0.0",
+    "core-js": "^2.4.1",
+    "rollup": "^0.41.6",
+    "rxjs": "^5.5.0",
+    "zone.js": "^0.8.11"
+  },
+  "devDependencies": {
+    "typescript": "~2.4.0",
+    "@angular/compiler-cli": "^5.0.0"
+  },
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billcheng/a4-modal.git"
+  },
+  "author": "Bill Cheng <cccheng118@yahoo.com>",
+  "maintainers": [
+    "Bill Cheng <cccheng118@yahoo.com>"
+  ]
+}

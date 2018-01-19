@@ -1,0 +1,22 @@
+# Node generated files
+node_modules
+npm-debug.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Ignored files
+*.js
+*.map
+*.d.ts
+*.metadata.json
+*.ngsummary.json
+*.ngfactory.ts
+*.ngstyle.*
+*.tgz
+!*.config.js
+!*.conf.js
+
+# Npm generated files
+package-lock.json
